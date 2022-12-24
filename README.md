@@ -1,6 +1,6 @@
 # sleep-calc
 
-![](sleep.jpg)
+![](sleep.png)
 
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-vqcd4p)
